@@ -4,4 +4,4 @@ This is just a simple JavaScript script to try out Tensorflow and Mobilenet in o
 
 ## Run the scipt
 
-Double click on the `index.js` file.
+Double click on the `index.html` file.
